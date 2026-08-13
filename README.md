@@ -5,10 +5,10 @@ Este repositório documenta minha jornada de transição para o desenvolvimento 
 ## 🎯 Metas do Projeto (Roadmap)
 
 ### Fase 1: Fundamentos & Lógica (Papel + Código)
-- [ ] **Configuração do Ambiente**
+- [x] **Configuração do Ambiente**
     - [x] Criar repositório e clonar no VS Code
-    - [ ] Criar estrutura básica do projeto (`index.js`, `package.json`)
-    - [ ] Configurar leitura de entrada no terminal (Node.js `readline`)
+    - [x] Criar estrutura básica do projeto (`index.js`, `package.json`)
+    - [x] Configurar leitura de entrada no terminal (Node.js `readline`)
 
 - [ ] **Funcionalidades do Sistema de Estoque (CLI)**
     - [ ] **Rascunho:** Desenhar fluxo de "Adicionar Produto" no papel
